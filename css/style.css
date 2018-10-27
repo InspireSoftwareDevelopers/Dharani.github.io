@@ -1041,18 +1041,21 @@ a:focus, a:hover {
 @media (max-width: 480px) {
   .service-2 .p-0 {
     padding: 0 15px !important;
+    width: 100%;
   }
 }
 
 @media (max-width: 768px) {
   .service-2 .p-0 {
     padding: 0 15px !important;
+    width: 100%;
   }
 }
 
 @media (max-width: 400px) {
   .service-2 .p-0 {
     padding: 0 15px !important;
+    width: 100%;
   }
 }
 
